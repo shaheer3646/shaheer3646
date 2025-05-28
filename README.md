@@ -55,8 +55,9 @@
 ### 📚 Certifications
 - HTML, CSS, JavaScript – *Udemy*
 - Responsive Web Design with Bootstrap 5 – *Udemy*
-- React.js and Node.js – *OneRoadmap*
+- React.js and Node.js – *Udemy *
 - Full Stack and Front-End Development – *OneRoadmap*
+- Java - *Udemy*
 
 
 ---
