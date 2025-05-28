@@ -10,8 +10,8 @@
 - 👨‍💻 All of my projects are available at [My Portfolio](https://shaheer3646.github.io/portfolio-website/)
 - 💬 Ask me about **JavaScript, Web Development, and Full Stack Projects**
 - 📫 How to reach me: **shaheerkhanpatan7@gmail.com**
-- 📄 Know about my experiences [Resume](mailto:shaheerkhanpatan7@gmail.com)
-- ⚡ Fun fact: **I love building smooth UI experiences!**
+- 📄 Know about my experiences [Resume](mailto:patanshaheerkhan28@gmail.com)
+- ⚡ Fun fact: **I love building Responsive websites with smooth UI experiences!**
 
 ---
 
