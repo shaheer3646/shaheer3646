@@ -9,8 +9,8 @@
 - 🌱 I’m currently learning **React.js and Node.js**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://shaheer3646.github.io/portfolio-website/)
 - 💬 Ask me about **JavaScript, Web Development, and Full Stack Projects**
-- 📫 How to reach me: **shaheerkhanpatan7@gmail.com**
-- 📄 Know about my experiences [Resume](mailto:patanshaheerkhan28@gmail.com)
+- 📫 How to reach me: **patanshaheerkhan28@gmail.com**
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Mr3driI5ZI_XHWyTBm8BxKZSgDu1xmYO/view?usp=drivesdk)
 - ⚡ Fun fact: **I love building Responsive websites with smooth UI experiences!**
 
 ---
