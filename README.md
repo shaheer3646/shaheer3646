@@ -1,74 +1,90 @@
 <h1 align="center">Hi 👋, I'm Patan Shaheerkhan</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<h3 align="center">Professional Data Analyst | Transforming Data into Insights</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shaheer3646&label=Profile%20views&color=0e75b6&style=flat" alt="shaheer3646" />
 </p>
 
-- 🔭 I’m currently working on **enhancing my full-stack projects**
-- 🌱 I’m currently learning **React.js and Node.js**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://shaheer3646.github.io/portfolio-website/)
-- 💬 Ask me about **JavaScript, Web Development, and Full Stack Projects**
-- 📫 How to reach me: **patanshaheerkhan28@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Z7f6N6dPqWxPkli4BP3L2w8ozbV--nmT/view?usp=drivesdk)
-- ⚡ Fun fact: **I love building Responsive websites with smooth UI experiences!**
+- 🔭 Currently working on **Advanced Data Analysis and Interactive Dashboards**  
+- 🌱 Continuously learning **Machine Learning, Power BI, SQL, and Statistics**  
+- ⚡ Fun fact: **I love turning raw data into actionable insights and business strategies!**
 
 ---
 
-### 🛠️ Technologies and Tools
+### 🛠️ Data Analytics Tools & Technologies
 
-![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?logo=bootstrap&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb&logoColor=white&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![Excel](https://img.shields.io/badge/-Excel-207245?logo=microsoft-excel&logoColor=white&style=for-the-badge)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black&style=for-the-badge)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge)
+![Statistics](https://img.shields.io/badge/-Statistics-FF5733?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 
 ---
 
-### 📈 GitHub Stats
+### 🧠 Soft Skills
+
+![Communication](https://img.shields.io/badge/-Communication-4CAF50?style=for-the-badge)
+![Analytical Thinking](https://img.shields.io/badge/-Analytical%20Thinking-2196F3?style=for-the-badge)
+![Insights & Dashboards](https://img.shields.io/badge/-Insights%20&%20Dashboards-F44336?style=for-the-badge)
+
+---
+
+### 📈 GitHub Stats & Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shaheer3646&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=shaheer3646&theme=radical" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=shaheer3646&show_icons=true&count_private=true&theme=radical" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheer3646&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=shaheer3646&theme=radical" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=shaheer3646&theme=radical&langs_count=8" />
 </p>
 
 ---
 
 ### 🌟 Featured Projects
 
-- 🎨 [**Personal Portfolio Website**](https://shaheer3646.github.io/portfolio-website)  
-  Built with HTML, CSS, JS – fully responsive, deployed via GitHub Pages.
+- 🏥 [**Hospital Dashboard in Excel**](https://github.com/shaheer3646/Hospital-Dashboard-Excel)  
+  Developed an interactive hospital dashboard using Excel, monitoring KPIs and patient trends effectively.
 
-- ✅ [**To-Do List App**](https://shaheer3646.github.io/To-Do-List-App)  
-  Task manager with add/delete/complete features. Smooth UI with vanilla JS.
+- 🛒 [**Customer Sales Insights for an E-Commerce Business**](https://github.com/shaheer3646/Customer-Sales-Insights-for-an-E-Commerce-Business---SQL---Python)  
+  Analyzed sales & customer data using SQL & Python, identifying trends to improve business decision-making.
 
-- 🧮 [**Calculator App**](https://shaheer3646.github.io/calculator)  
-  Simple calculator with arithmetic operations. Clean, responsive layout.
+- 🛍️ [**Retail Sales Customer Analysis**](https://github.com/shaheer3646/Retail-Sales-Customer-Analysis-SQL)  
+  Explored retail sales patterns to provide actionable insights for marketing & inventory strategies.
+
+- 📊 [**Mobile Shop Dashboard in Power BI**](https://github.com/shaheer3646/Mobile-Shop-Dashboard-Power-Bi)  
+  Built dynamic dashboards to track mobile sales and inventory performance.
 
 ---
 
 ### 📚 Certifications
-- HTML, CSS, JavaScript – *Udemy*
-- Responsive Web Design with Bootstrap 5 – *Udemy*
-- React.js and Node.js – *Udemy *
-- Full Stack and Front-End Development – *OneRoadmap*
-- Java - *Udemy*
 
-
----
-
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/shaheer-khan-patan/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=for-the-badge)](https://github.com/shaheer3646)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?logo=google-chrome&logoColor=white&style=for-the-badge)](https://shaheer3646.github.io/portfolio-website)
+- [**Data Analysis with Python**](YOUR_CERTIFICATE_LINK_HERE) – Udemy  
+- [**SQL for Data Analysis**](YOUR_CERTIFICATE_LINK_HERE) – Udemy  
+- [**Power BI Essentials**](YOUR_CERTIFICATE_LINK_HERE) – Udemy  
+- [**Tableau Data Visualization**](YOUR_CERTIFICATE_LINK_HERE) – Udemy  
+- [**Advanced Excel for Data Analytics**](YOUR_CERTIFICATE_LINK_HERE) – Udemy  
 
 ---
 
-> “I believe great design is born from a great process.”
+### 📄 Resume
 
+[**View My Resume**](https://drive.google.com/file/d/1Z7f6N6dPqWxPkli4BP3L2w8ozbV--nmT/view?usp=drivesdk)
+
+---
+
+### 📫 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](YOUR_LINKEDIN_LINK_HERE)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](YOUR_INSTAGRAM_LINK_HERE)  
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](YOUR_WHATSAPP_LINK_HERE)  
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:patanshaheerkhan28@gmail.com)
+
+---
+
+> “I believe actionable insights from data can drive better decisions and business growth.”
